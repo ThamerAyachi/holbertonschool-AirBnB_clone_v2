@@ -1,8 +1,8 @@
 -- Create a new user and database
 
-CREATE DATABASE IF NOT EXISTS hbtn_dev_db;
+CREATE DATABASE IF NOT EXISTS hbnb_dev_db;
 
-CREATE USER IF NOT EXISTS 'hbtn_dev'@'localhost' IDENTIFIED BY 'hbtn_dev_pwd';
+CREATE USER IF NOT EXISTS 'hbnb_dev'@'localhost' IDENTIFIED BY 'hbnb_dev_pwd';
 
 FLUSH PRIVILEGES;
 
