@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 """Simple Flask server"""
 from flask import Flask
 
